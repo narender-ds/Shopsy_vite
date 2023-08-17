@@ -1,0 +1,46 @@
+.empty-cart {
+    width: 50vw;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Maison Neue";
+    font-weight: 300;
+  }
+  .empty-cart-slide {
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Maison Neue";
+    font-weight: 300;
+  }
+  .shopping-cart {
+    color: "#ff6700";
+  }
+  .shopping-cart-div {
+    align-content: center;
+    justify-content: space-between;
+    color: #2183a2;
+  }
+  .h3ss {
+    font-size: 2rem;
+    line-height: 2rem;
+    margin: 0;
+    padding: 0;
+    font-weight: 600;
+  }
+  .pss {
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 18px;
+    line-height: 24px;
+    max-width: 80%;
+    margin: 1.25rem auto 0 auto;
+  }
+  .continueShopButton {
+    background-color: #3b3e6e;
+    padding: 8px 12px;
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+    cursor: pointer;
+    user-select: none;
+    margin-top: 30px;
+  }
