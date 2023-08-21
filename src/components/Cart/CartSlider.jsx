@@ -84,7 +84,7 @@ const CartSlider = () => {
                 </ActionButton>
               </CartProductAction>
             </div>
-            <hr style={{ backgroundColor: "red" }}></hr>
+            <hr style={{backgroundColor: "red" }}></hr>
           </CartItem>
         ))}
 
